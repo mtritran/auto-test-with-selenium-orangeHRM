@@ -1,0 +1,31 @@
+{
+  "login": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "employees": {
+    "default": {
+      "firstName": "Tri",
+      "middleName": "Manh",
+      "lastName": "Tran",
+      "employeeId": "AutoGenerate",
+      "username": "AutoGenerate",
+      "password": "Password123!"
+    },
+    "duplicateId": {
+      "firstName": "mtritran",
+      "middleName": "manh",
+      "lastName": "test-2",
+      "employeeId": "0001"
+    },
+    "minimal": {
+      "firstName": "Tran",
+      "lastName": "Tri"
+    }
+  },
+  "images": {
+    "valid": "truePicture.jpg",
+    "wrongFormat": "wrongFormat.side",
+    "tooLarge": "pictureSizebigger.jpg"
+  }
+}
